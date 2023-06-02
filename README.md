@@ -61,7 +61,7 @@
 
 ---
 ### :fire: My Stats :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/elenbeilina?ext=activity&theme=dark,unicorn)](https://leetcode.com/elenbeilina)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/elenbeilina?ext=activity)](https://leetcode.com/elenbeilina)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elenbeilina&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
