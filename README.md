@@ -61,10 +61,10 @@
 
 ---
 ### :fire: My Stats :
+[![Leetcode Stats](https://leetcard.jacoblin.cool/elenbeilina?ext=activity&theme=dark,unicorn)](https://leetcode.com/elenbeilina)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elenbeilina&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elenbeilina&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenbeilina&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/elenbeilina?ext=activity&theme=nord)](https://leetcode.com/elenbeilina)
