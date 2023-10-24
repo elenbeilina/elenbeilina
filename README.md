@@ -26,7 +26,7 @@
 ### 💫 About me:
 
 #### 🧑🏼‍💻 IT
-- Lead software engineer
+- Software engineer
 - Master degree in Computer Science
 - Certificates:
     - Oracle Certified Associate (OCA) Java 8 Programmer,
